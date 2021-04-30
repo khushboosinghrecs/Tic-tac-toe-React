@@ -1,0 +1,48 @@
+/* body{
+    background-color: #2173c5;
+} */
+
+.header{
+    background-color:rgba(23, 240, 15, 0.863);
+}
+.GameBoard{
+     height: 70vh;
+    width: 75%;
+}
+.brdr{
+  border: 1px solid black;
+}
+.Square-box{
+    width: 33.33%;
+    height: 33.33%;
+    /* border: 2px solid black;
+    padding: 4px; */
+}
+
+.bt{
+    border-top: 5px solid #5607;
+}
+
+.bb{
+    border-bottom: 5px solid #5607;
+}
+.bsb{
+    border-left: 5px solid #5607;
+    border-right: 5px solid #5607;
+}
+.bstpb{
+    border-top: 5px solid #5607;
+    border-bottom: 5px solid #5607;
+
+}
+
+.bs{
+    border-left: 5px solid #5607;
+    border-right: 5px solid #5607;
+    border-top: 5px solid #5607;
+    border-bottom: 5px solid #5607;
+}
+.X10{
+    font-size: 5rem;
+    text-align: center;
+}
